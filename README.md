@@ -533,7 +533,7 @@ services:
         max-file: "5"
     environment:
       - TZ=America/Chicago
-      - TELEGRAM_TOKEN=ххххх
+      - TELEGRAM_TOKEN=7547457485:AAGIZ3eGbbqyBHRDJhykV4fIRgGhuwRMkPk
       - TELEGRAM_GROUP=example_chat # public group name to monitor and protect
       - ADMIN_GROUP=-403767890 # private group id for admin spam-reports
       - LOGGER_ENABLED=true
